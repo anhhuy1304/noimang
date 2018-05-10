@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\anh huy\documents\visual studio 2017\projects\noimangtoancau\noimangtoancau\main.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\anh huy\documents\visual studio 2017\projects\noimangtoancau\noimangtoancau\main.cpp(21): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  noiMangToanCau.vcxproj -> C:\Users\anh huy\Documents\Visual Studio 2017\Projects\noiMangToanCau\Debug\noiMangToanCau.exe
+  noiMangToanCau.vcxproj -> C:\Users\anh huy\Documents\Visual Studio 2017\Projects\noiMangToanCau\Debug\noiMangToanCau.pdb (Partial PDB)
